@@ -145,31 +145,40 @@ http://localhost:9000
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1017" height="512" alt="image" src="https://github.com/user-attachments/assets/b1c991f6-5d26-48ee-a2ad-6ff51f108bf4" />
+
 
 ## Add Admin
 
-![Add Admin](screenshots/add-admin.png)
+<img width="1026" height="507" alt="image" src="https://github.com/user-attachments/assets/fbd49391-7e45-4bb4-aba0-bbfb0fcf8242" />
+
 
 ## Filled Admin Form
 
-![Filled Admin](screenshots/filled-admin.png)
+<img width="1025" height="497" alt="image" src="https://github.com/user-attachments/assets/c6b2e124-2d76-4fb1-9bac-305d9d3f5184" />
+<img width="1042" height="506" alt="image" src="https://github.com/user-attachments/assets/3f91f70d-e7a5-4bd9-aa1e-57d56469dffc" />
+
+
 
 ## View Admin
 
-![View Admin](screenshots/view-admin.png)
+<img width="1032" height="507" alt="image" src="https://github.com/user-attachments/assets/8f336e4a-234c-40f6-b1ea-6b29a88ab010" />
+
 
 ## Delete Admin
 
-![Delete Admin](screenshots/delete-admin.png)
+<img width="1041" height="511" alt="image" src="https://github.com/user-attachments/assets/ff1d8a50-3051-4606-b6eb-447995c59b0b" />
+
 
 ## Register Page
 
-![Register](screenshots/register.png)
+<img width="1032" height="497" alt="image" src="https://github.com/user-attachments/assets/4dd3c4b2-7a73-4a28-84a5-6b23eb4aef54" />
+
 
 ## Login Page
 
-![Login](screenshots/login.png)
+<img width="1032" height="496" alt="image" src="https://github.com/user-attachments/assets/26227a81-e26a-4947-82b3-7b3dff8e98cd" />
+
 
 ---
 
