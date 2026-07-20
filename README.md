@@ -76,29 +76,19 @@ project/
 
 # ⚙️ Installation
 
-### 1. Clone the Repository
 
-```bash
-git clone <repository-url>
-```
 
-### 2. Navigate to the Project Folder
-
-```bash
-cd project-folder
-```
-
-### 3. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Configure MongoDB
+### 2. Configure MongoDB
 
 Update your MongoDB connection string in the configuration file.
 
-### 5. Start the Application
+### 3. Start the Application
 
 ```bash
 npm start
